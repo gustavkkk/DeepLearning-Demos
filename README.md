@@ -1,8 +1,12 @@
 # DeepLearning-Demos
   DeepLearning or other State of Art Demos are listed here. I believe these demos will motivate many people full of dreams.
   
-# anpr
-[openalpr](http://www.openalpr.com/cloud-api.html):[soure code](https://github.com/openalpr/openalpr)
+# ALPR/ANPR
+[openalpr](http://www.openalpr.com/cloud-api.html) : [soure code](https://github.com/openalpr/openalpr)
+
+# NSFW
+[yahoo's](https://github.com/yahoo/open_nsfw)
+[NSFW's opposite](https://github.com/ryanjay0/miles-deep)
 
 # face recognition
 
@@ -14,5 +18,6 @@
 
 # aggresive deep learning api vendors
 [clarifai](https://www.clarifai.com/demo)
+
 # other collections
 [DeepLearningNet](http://deeplearning.net/demos/)
